@@ -17,10 +17,6 @@ This Currency Converter project is a simple web application that allows users to
 - Access to Wall-street Journal market news
 - Access to Trading View 
 
-## Demo
-
-You can try out the Currency Converter project through this link >>>>> [http://127.0.0.1:5501/index.html]
-
 ## Technologies used
 
 The Currency Converter project is built using the following technologies:
