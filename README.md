@@ -60,6 +60,8 @@ To run the project locally, follow these steps:
 6. The exchange rate used for the conversion is displayed as well.
 
 7. To perform another conversion, simply repeat the steps with new input.
+   
+8. Enjoy !!!
 
 ## Contributing
 
