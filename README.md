@@ -1,7 +1,7 @@
 # Currency Converter
 
 
-**Author**: Bilal Faruq Ali
+**Author**: Bilal Faruq Ali.
 
 ## Overview
 
