@@ -18,6 +18,7 @@ This Currency Converter project is a simple web application that allows users to
 - Access to Trading View
 
 ## Live Demo
+Click the link below to use the app
 https://digitalcurrencyconverter.netlify.app/
 
 ## Technologies used
