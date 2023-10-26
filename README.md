@@ -15,7 +15,10 @@ This Currency Converter project is a simple web application that allows users to
 - Input validation to prevent errors.
 - Cross-browser compatibility.
 - Access to Wall-street Journal market news
-- Access to Trading View 
+- Access to Trading View
+
+## Live Demo
+https://digitalcurrencyconverter.netlify.app/
 
 ## Technologies used
 
@@ -37,7 +40,6 @@ To run the project locally, follow these steps:
    ```
 
 2. Open the project folder in your code editor.
-
 3. If you need to access a currency exchange rate API, sign up for an API key and replace the placeholder in the code with your actual key.
 
 4. Open the `index.html` file in your web browser.
