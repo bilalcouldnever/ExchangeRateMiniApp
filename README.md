@@ -7,6 +7,7 @@
 
 This Currency Converter project is a simple web application that allows users to convert between different currencies. It's built using JavaScript, HTML, and CSS, and it utilizes a currency exchange rate API to provide real-time exchange rate data.
 
+
 ## Features
 
 - Real-time currency conversion using up-to-date exchange rates.
